@@ -3,3 +3,6 @@ item2
 item3
 item4
 apple
+objects
+array
+string
