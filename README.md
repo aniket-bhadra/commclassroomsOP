@@ -2,4 +2,5 @@
 
 Kunal Kushwaha learing github amazing..
 
-amazing video..
+Amazing video! I learned a lot about Git
+
